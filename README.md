@@ -8,7 +8,7 @@
 <a href="https://dev.to/nezer"><img height="30" src="https://raw.githubusercontent.com/iNezerr/iNezerr/main/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/__nezerr"><img height="30" src="https://github.com/iNezerr/iNezerr/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/__nezerr"><img height="30" src="https://github.com/iNezerr/iNezerr/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/iNezerr/iNezerr/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
+<a href="https://www.buymeacoffee.com/nezer"><img height="30" src="https://github.com/iNezerr/iNezerr/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/nezerr/"><img height="30" src="https://github.com/iNezerr/iNezerr/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
