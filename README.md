@@ -19,7 +19,7 @@ I am a full stack web developer, who is more focused on frontend. I recently sta
   ---
 
  <p>
-  <img width="150" align='left' src="https://github.com/iNezerr/iNezerr/blob/main/icon/hacktoberfest.png?raw=true">
+<!--   <img width="150" align='left' src="https://github.com/iNezerr/iNezerr/blob/main/icon/hacktoberfest.png?raw=true"> -->
 </p>
 
 ### Boy Scout Rule
