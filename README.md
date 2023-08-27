@@ -1,7 +1,7 @@
 # [![Ebenezer Agbekeye header](https://raw.githubusercontent.com/iNezerr/iNezerr/main/icon/Ebenezer_Agbekeye_Git_banner.png)](https://linkedin.com/in/nezerr)
 
 <p>
-  <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
+<!--   <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a> -->
 </p>
 
 <p align='center'>
@@ -19,7 +19,7 @@ I am a full stack web developer, who is more focused on frontend. I recently sta
   ---
 
  <p>
-<!--   <img width="150" align='left' src="https://github.com/iNezerr/iNezerr/blob/main/icon/hacktoberfest.png?raw=true"> -->
+  <img width="150" align='left' src="https://github.com/iNezerr/iNezerr/blob/main/icon/hacktoberfest.png?raw=true">
 </p>
 
 ### Boy Scout Rule
