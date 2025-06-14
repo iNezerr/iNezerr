@@ -1,99 +1,66 @@
-# [![Ebenezer Agbekeye header](https://raw.githubusercontent.com/iNezerr/iNezerr/main/icon/Ebenezer_Agbekeye_Git_banner.png)](https://linkedin.com/in/nezerr)
-
-<p>
-<!--   <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a> -->
-</p>
-
-<p align='center'>
-<a href="https://dev.to/nezer"><img height="30" src="https://raw.githubusercontent.com/iNezerr/iNezerr/main/icon/dev.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/__nezerr"><img height="30" src="https://github.com/iNezerr/iNezerr/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/__nezerr"><img height="30" src="https://github.com/iNezerr/iNezerr/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/nezer"><img height="30" src="https://github.com/iNezerr/iNezerr/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
-<a href="https://www.linkedin.com/in/nezerr/"><img height="30" src="https://github.com/iNezerr/iNezerr/blob/main/icon/linkedin.png?raw=true"></a>
-</p>
-
-Hey there 👋,
-
-I am a full stack web developer, QA Automation Engineer, who is more focused on backend. I recently started to create blog posts and open source packages mainly about frontend and devOps.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.  You can see a full list of what I am up to on [Dev.to](https://dev.to/nezer).  If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/nezer), give me a shout out [@nezerOriginal](https://twitter.com/nezerOriginal), give some ♥ on [DEV.to](https://dev.to/nezer).
-
-  ---
-
- <p>
-  <img width="150" align='left' src="https://github.com/iNezerr/iNezerr/blob/main/icon/hacktoberfest.png?raw=true">
-</p>
-
-### Boy Scout Rule
-
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
-
- ---
-<!--
-## <img height="30" style="border-radius:50%" src="https://github.com/iNezerr/iNezerr/blob/main/icon/twitter.png?raw=true"> Latest Followers _258_
-
-<a href='https://twitter.com/natterstefan'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1255562113629802498/nTk-e7L5_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/natterstefan'>
-    Stefan Natter 🇦🇹👋🏻
-</a>
--->
-I recently founded a startup [@myWeltCode](https://github.com/myweltcode) ♥️ 
-<!--
-<h2></h2><a href='https://twitter.com/commanderquest'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1243185628864528384/eFnPWZyC_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/commanderquest'>
-    Commander Quest
-</a>
-
-On a mission to the furthest frontiers of tech and talent.
-Follow my adventures at Club Freelance's Mission Control Center 👉 https://t.co/D4k36nU2at
-
-<h2></h2><a href='https://twitter.com/benjaminwardcom'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1283469746055385088/sr9ZExwG_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/benjaminwardcom'>
-    Benjamin Ward
-</a>
-
-software engineer, dev coach, Star Wars fanatic, learning enthusiast, host of the Download Knowledge Podcast https://t.co/V2bIR93cQW
-
-<h2></h2><a href='https://twitter.com/tucker_dev'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1284727066160705536/VhioFBZE_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/tucker_dev'>
-    James Tucker
-</a>
-
-software engineer at @soonastudios. career switcher. vue + rails. tweeting about tech, books, startups, and big ideas. writing @ https://t.co/SPyap1XFWD. he/him
-
-<h2></h2><a href='https://twitter.com/BenGuthmiller'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1284966756906409984/MR0a9hi2_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/BenGuthmiller'>
-    Ben Guthmiller
-</a>
-
-Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investor | Tweets are my own opinions
-
-<h2></h2>
-
-<p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge">
- <p/>
 <div align="center">
-	<br>
-	<a href="https://raw.githubusercontent.com/iNezerr/iNezerr/main/follower.svg">
-		<img src="follower.svg" width="800" height="140">
-	</a>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-## Stargazers
+<h1 align="center">Hi, I'm Eben 👋 &nbsp;Welcome to my GitHub</h1>
 
-[![Stargazers repo roster for @iNezerr/iNezerr](https://reporoster.com/stars/iNezerr/iNezerr)](https://github.com/iNezerr/iNezerr/stargazers)
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/in/nezeroriginal/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://coff.ee/nezer" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=iNezerr&style=flat-square&color=blue" alt="Profile Views">
+</div>
+
+---
+
+### 🚀 About Me
+
+I'm a Senior Python Engineer, LLM trainer, and builder focused on practical impact. I work across backend systems, AI/LLM applications, and technical leadership. I teach, mentor, and ship. I don't chase trends. I solve real problems.
+
+* 🔭 Currently: IT Manager @ Globridge, CTO @ Hues Apply, Program Lead @ myCodeEdge, and Python Engineer @ Turing.
+* ⚙️ Mostly writing Python, but I touch anything needed to get things done.
+* 🌍 Building tech tools that improve lives, especially in Africa.
+* 🧠 Faith in God and an unbreakable mindset are how I stay consistent.
+* ✊ I believe in showing up, even when I don't feel like it.
+
+---
+
+### 🛠 Tech Stack
+
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<a href="https://app.daily.dev/eben58"><img src="https://api.daily.dev/devcards/v2/hqsExUXhqarcRIQ9yuIfM.png?type=default&r=cp6" width="356" alt="Eben's Dev Card"/></a>
+
+![](https://github-readme-stats.vercel.app/api?username=iNezerr\&theme=highcontrast\&background=000000\&hide_border=true\&include_all_commits=true\&count_private=true) <br/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iNezerr\&theme=highcontrast\&background=000000)](https://git.io/streak-stats) <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iNezerr\&layout=compact\&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### ✍️ Blog / Writing
+
+I occasionally share raw thoughts, tech breakdowns, and career tips. Sample:
+
+* [How I Built an Academic Chatbot for a University in Nigeria](#) *(coming soon)*
+* [Tech Won’t Save You From Poverty if You’re Not Intentional](#)
+* [Helping Refugees Learn to Code With Structure](#)
