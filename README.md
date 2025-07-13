@@ -23,7 +23,7 @@
 
 I'm a Senior Python Engineer, LLM trainer, and builder focused on practical impact. I work across backend systems, AI/LLM applications, and technical leadership. I teach, mentor, and ship. I don't chase trends. I solve real problems.
 
-* 🔭 Currently: IT Manager @ Globridge, CTO @ Hues Apply, Program Lead @ myCodeEdge, and Python Engineer @ Turing.
+* 🔭 Currently: CTO @ Hues Apply, Program Lead @ myCodeEdge, and Python Engineer @ Turing.
 * ⚙️ Mostly writing Python, but I touch anything needed to get things done.
 * 🌍 Building tech tools that improve lives, especially in Africa.
 * 🧠 Faith in God and an unbreakable mindset are how I stay consistent.
