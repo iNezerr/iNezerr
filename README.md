@@ -52,7 +52,7 @@ I'm a Senior Python Engineer, LLM trainer, and builder focused on practical impa
 <a href="https://app.daily.dev/eben58"><img src="https://api.daily.dev/devcards/v2/hqsExUXhqarcRIQ9yuIfM.png?type=default&r=cp6" width="356" alt="Eben's Dev Card"/></a>
 
 ![](https://github-readme-stats.vercel.app/api?username=iNezerr\&theme=highcontrast\&background=000000\&hide_border=true\&include_all_commits=true\&count_private=true) <br/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iNezerr\&theme=highcontrast\&background=000000)](https://git.io/streak-stats) <br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=iNezerr&theme=dark&hide_border=true&border_radius=5.1&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iNezerr\&layout=compact\&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
