@@ -61,6 +61,4 @@ I'm a Senior Python Engineer, LLM trainer, and builder focused on practical impa
 
 I occasionally share raw thoughts, tech breakdowns, and career tips. Sample:
 
-* [How I Built an Academic Chatbot for a University in Nigeria](#) *(coming soon)*
-* [Tech Won’t Save You From Poverty if You’re Not Intentional](#)
-* [Helping Refugees Learn to Code With Structure](#)
+* [LinkedIN](https://linkedin.com/in/nezeroriginal) 
